@@ -1,0 +1,60 @@
+.box
+{
+    display:inline-block;
+    width: 200px;
+    height: 400px;
+    background-color: blue;
+}
+.left{
+    background-color: blue;
+}
+.center{
+    background-color: white;
+}
+.right{
+    background-color: red;
+}
+.box-2
+{
+    width:600px;
+    height:200px;
+    background-color: aliceblue;
+}
+.top{
+    background-color: cornflowerblue;
+}
+.bottom{
+    background-color: yellow;
+}
+.left-2
+{
+    background-color: forestgreen;
+}
+.center-2
+{
+    background-color: white;
+}
+.right-2{
+    background-color: red;
+}
+.bigbox
+{
+    display:inline-block;
+    width: 453px;
+    height: 300px;
+    border: 1px solid black;
+    padding-top: 135px;
+    padding-left: 150px;
+
+}
+.circle
+{
+    display: inline-block;
+        width: 150px;
+    height:150px;
+    background-color: red;
+    border-radius: 50%;
+    margin-left: 75px;
+    margin-top:10px;
+}
+

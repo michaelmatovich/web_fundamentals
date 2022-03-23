@@ -1,0 +1,29 @@
+#searchbutton{
+    color:cadetblue;
+    font-weight: bold;
+    background-color:aliceblue;
+    border-color:   cadetblue;
+    border-radius: 10px;
+    padding-left: 3em;
+    padding-right: 3em;
+
+}
+#plusbutton{
+    width:25px;
+    height:25px;
+    color: white;
+    border-radius: 50%;
+    background-color: aquamarine;
+    border-color: aquamarine;
+    border:none;
+    
+}
+#createaccount
+{
+    height:25px;
+    width:150px;
+    background-color: cornflowerblue;
+    color:white;
+    box-shadow: 2em;
+
+}
